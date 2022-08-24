@@ -9,11 +9,11 @@
   },
   "googleSheets": {
     "prayerData":
-      "https://script.google.com/macros/s/AKfycbzG1PEjY3Gopuw9G59oNY2XYeKyZanQcXqYCXgw6Xo3mk5yqrE/exec?google_sheet_id=1EsVCu7GePwMaRPLSYZQBbeZnywFnAlAZZxIXOf10cyI",
+      "https://docs.google.com/spreadsheets/d/e/2PACX-1vQSE0hCMUTf6jGLagBMfL_DvzOr_uozqvI3meGWOERti6c3M_ppoxhu3q5oWtTawfSbDWYPNVCMMuv1/pub?gid=2084513295&single=true&output=csv",
     "hadithData":
-      "https://script.google.com/macros/s/AKfycby6jZBf7sKGLte5mdxbqeENeRfZsX_XZqntI-6n8-9Z3-8mYUio/exec?google_sheet_id=1EsVCu7GePwMaRPLSYZQBbeZnywFnAlAZZxIXOf10cyI",
+      "https://docs.google.com/spreadsheets/d/e/2PACX-1vQSE0hCMUTf6jGLagBMfL_DvzOr_uozqvI3meGWOERti6c3M_ppoxhu3q5oWtTawfSbDWYPNVCMMuv1/pub?gid=223779376&single=true&output=csv",
     "appConfig":
-      "https://script.google.com/macros/s/AKfycbxAG6RD-hfL-HzZ_YMBeiXa4mnkJBpt1QhrJmvHIU18KUUxPuU/exec?google_sheet_id=1EsVCu7GePwMaRPLSYZQBbeZnywFnAlAZZxIXOf10cyI",
+      "https://docs.google.com/spreadsheets/d/e/2PACX-1vQSE0hCMUTf6jGLagBMfL_DvzOr_uozqvI3meGWOERti6c3M_ppoxhu3q5oWtTawfSbDWYPNVCMMuv1/pub?gid=2071841746&single=true&output=csv",
     "refreshRate": 1
   }
 }
